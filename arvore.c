@@ -11,7 +11,7 @@ Arvore* inserir(char pergunta[]){
     novo->sim = NULL;
     return novo;
 }
-
+printf
 void criarArvore(Arvore **arv){
     char **lista_perguntas;
     char **lista_respostas;
