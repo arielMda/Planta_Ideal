@@ -136,3 +136,49 @@ void imprimirArvore(Arvore *arv){
     imprimirArvore(arv->sim);
     imprimirArvore(arv->nao);
 }
+void salva_codigo(Arvore *r, FILE *arquivo);
+
+void salva_arvore(Arvore *r) {
+    char nome_arquivo[30];
+    FILE *arquivo;
+
+    if (r == NULL) {
+        printf("\nNao e possivel salvar uma arvore vazia!\n");
+        getchar();
+        return;
+    }
+
+    printf("\nNomeie o arquivo: ");
+    scanf("%s", nome_arquivo);
+    strcat(nome_arquivo, ".txt");
+
+    arquivo = fopen(nome_arquivo, "w");
+    if (arquivo == NULL) {
+        printf("\nErro ao criar arquivo!\n");
+        getchar();
+        return;
+    }
+
+    salva_codigo(r, arquivo);
+
+    fclose(arquivo);
+    printf("\nArvore salva com sucesso!\n");
+    getchar();
+}
+void salva_codigo(Arvore *r, FILE *arquivo) {
+    if (r == NULL) {
+        fprintf(arquivo, "#\n");   // marca nó nulo
+        return;
+    }
+
+    // salva pergunta do nó
+    fprintf(arquivo, "[P] %s\n", r->informacoes.pergunta);
+
+    // salva ramificação "sim"
+    fprintf(arquivo, "[S]\n");
+    salva_codigo(r->sim, arquivo);
+
+    // salva ramificação "nao"
+    fprintf(arquivo, "[N]\n");
+    salva_codigo(r->nao, arquivo);
+}
