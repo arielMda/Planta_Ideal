@@ -17,5 +17,7 @@ void criarArvore(Arvore **arv);
 void busca(Arvore *arv, int valor);
 void lerArquivoPerguntas(const char nome_arq[], char ***lista_perguntas, int *num_perguntas);
 void imprimirArvore(Arvore *arv);
+void salva_arvore(Arvore *r);
+
 
 #endif // ARVORE_H_INCLUDED
