@@ -1,0 +1,253 @@
+[V] 0 [P] Você quer plantar algo para COMER?
+[S]
+[V] 0 [P] Você tem um quintal externo com muito sol (Sol Pleno)?
+[S]
+[V] 0 [P] Você busca uma árvore que dure muitos anos?
+[S]
+[V] 0 [P] Mora em região fria/sujeita a geada?
+[S]
+[V] 0 [P] Gosta de frutas vermelhas?
+[S]
+[V] 1 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 2 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Tem espaço para árvore grande (+3m)?
+[S]
+[V] 3 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 4 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Quer colher rápido (menos de 3 meses)?
+[S]
+[V] 0 [P] Prefere saladas?
+[S]
+[V] 5 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 6 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Tem treliça para ela subir?
+[S]
+[V] 7 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 8 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] O local pega pelo menos 4 horas de sol (janela/varanda)?
+[S]
+[V] 0 [P] O foco é tempero para cozinhar?
+[S]
+[V] 0 [P] Prefere chás ?
+[S]
+[V] 8 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 10 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Gosta de pimentas?
+[S]
+[V] 11 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 12 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Gosta de cogumelos ou brotos?
+[S]
+[V] 0 [P] Quer colher em 10 dias?
+[S]
+[V] 13 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 14 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Tem paciência (crescimento lento)?
+[S]
+[V] 15 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 16 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] A planta ficará dentro de casa (Ambiente Interno)?
+[S]
+[V] 0 [P] Você tem animais domésticos (cães/gatos)?
+[S]
+[V] 0 [P] O ambiente é bem iluminado?
+[S]
+[V] 0 [P] Gosta de plantas pendentes?
+[S]
+[V] 17 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 18 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Gosta de folhas coloridas?
+[S]
+[V] 19 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 20 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Você tem pouco tempo para regar com frequência?
+[S]
+[V] 0 [P] Gosta de visual moderno/espinhoso?
+[S]
+[V] 21 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 22 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Quer folhas gigantes?
+[S]
+[V] 23 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 24 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Você prefere foco em flores coloridas?
+[S]
+[V] 0 [P] Tem tempo para adubar e podar sempre?
+[S]
+[V] 0 [P] Prioriza perfume/cheiro?
+[S]
+[V] 25 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 26 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Quer planta rústica (aguenta seca)?
+[S]
+[V] 27 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 28 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Quer cobrir um muro (trepadeira)?
+[S]
+[V] 0 [P] Quer cobertura rápida?
+[S]
+[V] 29 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 30 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 0 [P] Venta muito no local?
+[S]
+[V] 31 [P] (null)
+[S]
+#
+[N]
+#
+[N]
+[V] 32 [P] (null)
+[S]
+#
+[N]
+#

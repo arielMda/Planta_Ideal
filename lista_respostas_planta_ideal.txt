@@ -1,173 +1,269 @@
+#1
 Mirtilo ou Framboesa
 
-O mirtilo (Vaccinium myrtillus) é um arbusto de porte baixo, gosta de clima frio e gera frutas azuladas. 
+O mirtilo (Vaccinium myrtillus) é um arbusto de porte baixo, 
+gosta de clima frio e gera frutas azuladas. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação leve todos os dias.
 
-A framboesa (Rubus idaeus) é um arbusto de porte médio, gosta de clima frio e gera frutas vermelhas. 
+A framboesa (Rubus idaeus) é um arbusto de porte médio, 
+gosta de clima frio e gera frutas vermelhas. 
 Precisa de cerca de 6 horas de sol por dia e de irrigação leve todos os dias.
 
+#2
 Pêra ou Maçã
 
-A pêra (Pyrus communis) é uma árvore frutífera de porte médio a alto, prefere clima frio e gera frutos amarelados ou esverdeados. 
+A pêra (Pyrus communis) é uma árvore frutífera de porte médio a alto, 
+prefere clima frio e gera frutos amarelados ou esverdeados. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação 1 vez ao dia.
 
-A maçã (Malus domestica) é uma árvore frutífera de porte médio a alto, prefere clima frio e gera frutos vermelhos verdes ou amarelos. 
+A maçã (Malus domestica) é uma árvore frutífera de porte médio a alto, 
+prefere clima frio e gera frutos vermelhos verdes ou amarelos. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação 1 vez ao dia para manter o solo levemente úmido.
 
+#3
 Mangueira ou Abacateiro
 
-A mangueira (Mangifera indica) é uma árvore frutífera de porte alto, prefere clima quente, gera frutos amarelos ou avermelhados. 
+A mangueira (Mangifera indica) é uma árvore frutífera de porte alto, 
+prefere clima quente, gera frutos amarelos ou avermelhados. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação 1 vez ao dia.
 
-O abacateiro (Persea americana) é uma árvore frutífera de porte médio a alto, prefere clima quente, e gera frutos verdes de polpa macia. 
+O abacateiro (Persea americana) é uma árvore frutífera de porte médio a alto, 
+prefere clima quente, e gera frutos verdes de polpa macia. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação 1 vez ao dia.
 
+#4
 Limão Siciliano ou Romã
 
-O limão siciliano (Citrus limon) é uma árvore frutífera de porte médio, prefere o clima quente e gera frutos amarelos e aromáticos.
+O limão siciliano (Citrus limon) é uma árvore frutífera de porte médio, 
+prefere o clima quente e gera frutos amarelos e aromáticos.
 Precisa de 6 a 8 horas de sol por dia e de irrigação 1 vez ao dia.
 
-A romã (Punica granatum) é um arbusto ou pequena árvore de porte baixo a médio, prefere clima quente e seco e gera frutos vermelhos com sementes suculentas. 
+A romã (Punica granatum) é um arbusto ou pequena árvore de porte baixo a médio, 
+prefere clima quente e seco e gera frutos vermelhos com sementes suculentas. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia.
 
+#5
 Alface ou Rúcula
 
-A alface (Lactuca sativa) é uma hortaliça de porte baixo, prefere clima ameno e cresce em folhas verdes macias. 
+A alface (Lactuca sativa) é uma hortaliça de porte baixo, 
+prefere clima ameno e cresce em folhas verdes macias. 
 Precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
-A rúcula (Eruca sativa) é uma hortaliça de porte baixo, prefere clima ameno, cresce em folhas alongadas e de sabor mais forte e picante. 
+A rúcula (Eruca sativa) é uma hortaliça de porte baixo, 
+prefere clima ameno, cresce em folhas alongadas e de sabor mais forte e picante. 
 Precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
+#6
 Rabanete ou Cenoura
 
-O rabanete (Raphanus sativus) é uma hortaliça de porte baixo, prefere clima ameno e cresce formando raízes arredondadas vermelhas com polpa branca. 
+O rabanete (Raphanus sativus) é uma hortaliça de porte baixo, 
+prefere clima ameno e cresce formando raízes arredondadas vermelhas com polpa branca. 
 Precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
-A cenoura (Daucus carota) é uma hortaliça de porte baixo, prefere clima ameno e cresce formando raízes alongadas alaranjadas. 
+A cenoura (Daucus carota) é uma hortaliça de porte baixo, 
+prefere clima ameno e cresce formando raízes alongadas alaranjadas. 
 Precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia para manter o solo sempre úmido.
 
+#7
 Maracujá ou Tomate
 
-O maracujá (Passiflora edulis) é uma trepadeira frutífera de porte médio, prefere clima quente e gera frutos amarelos ou roxos com polpa ácida. 
+O maracujá (Passiflora edulis) é uma trepadeira frutífera de porte médio, 
+prefere clima quente e gera frutos amarelos ou roxos com polpa ácida. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação 1 vez ao dia.
 
-O tomate (Solanum lycopersicum) é uma hortaliça-fruto de porte baixo a médio, prefere clima quente e gera frutos muito usados em saladas. 
+O tomate (Solanum lycopersicum) é uma hortaliça-fruto de porte baixo a médio, 
+prefere clima quente e gera frutos muito usados em saladas. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
+#8
 Berinjela ou Couve
 
-A berinjela (Solanum melongena) é uma hortaliça de porte médio, prefere clima quente e gera frutos roxos alongados. 
+A berinjela (Solanum melongena) é uma hortaliça de porte médio, 
+prefere clima quente e gera frutos roxos alongados. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia.
 
 A couve (Brassica oleracea) é uma hortaliça de porte médio, prefere clima ameno, 
 cresce em folhas verdes grandes usadas em saladas e refogados, 
 precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
+#9
 Hortelã ou Melissa
 
-A hortelã (Mentha spicata) é uma erva de porte baixo, prefere clima ameno, cresce em folhas verdes muito aromáticas e muito usadas em chás. 
+A hortelã (Mentha spicata) é uma erva de porte baixo, prefere clima ameno, 
+cresce em folhas verdes muito aromáticas e muito usadas em chás. 
 Precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
-A melissa (Melissa officinalis) é uma erva de porte baixo, prefere clima ameno e cresce em folhas verdes aromáticas muito usadas em chás calmantes. 
+A melissa (Melissa officinalis) é uma erva de porte baixo, 
+prefere clima ameno e cresce em folhas verdes aromáticas muito usadas em chás calmantes. 
 Precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
+#10
 Manjericão ou Alecrim
 
-O manjericão (Ocimum basilicum) é uma erva de porte baixo, prefere clima quente, cresce em folhas verdes aromáticas muito usadas na culinária. 
+O manjericão (Ocimum basilicum) é uma erva de porte baixo, 
+prefere clima quente, cresce em folhas verdes aromáticas muito usadas na culinária. 
 Precisa de 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
-O alecrim (Salvia rosmarinus) é uma erva de porte médio, prefere clima quente e seco e cresce em ramos aromáticos muito usados na culinária. 
+O alecrim (Salvia rosmarinus) é uma erva de porte médio, 
+prefere clima quente e seco e cresce em ramos aromáticos muito usados na culinária. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação leve apenas quando o solo estiver seco.
 
+#11
 Pimenta Biquinho
 
-A pimenta biquinho (Capsicum chinense) é uma planta de porte baixo a médio, prefere clima quente e cresce produzindo pequenas pimentas vermelhas, doces e suaves. 
+A pimenta biquinho (Capsicum chinense) é uma planta de porte baixo a médio, 
+prefere clima quente e cresce produzindo pequenas pimentas vermelhas, doces e suaves. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia.
 
+#12
 Tomate Cereja
 
-O tomate-cereja (Solanum lycopersicum var. cerasiforme) é uma planta de porte baixo a médio, prefere clima quente, cresce em ramos que produzem pequenos frutos doces, muito usados em saladas. 
+O tomate-cereja (Solanum lycopersicum var. cerasiforme) é uma planta de porte baixo a médio, 
+prefere clima quente, cresce em ramos que produzem pequenos frutos doces, muito usados em saladas. 
 Precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
+#13
 Broto de Feijão (Moyashi)
 
-O broto de feijão (Moyashi) é uma hortaliça de porte baixo, prefere clima ameno, cresce em brotos brancos frescos e crocantes, muito usados em saladas e refogados. Precisa de 4 a 6 horas de luz indireta por dia e de irrigação leve todos os dias.
+O broto de feijão (Moyashi) é uma hortaliça de porte baixo, 
+prefere clima ameno, cresce em brotos brancos frescos e crocantes, muito usados em saladas e refogados. 
+Precisa de 4 a 6 horas de luz indireta por dia e de irrigação leve todos os dias.
 
+#14
 Cogumelo Shimeji
 
-O cogumelo shimeji (Pleurotus ostreatus var. shimeji) é um fungo comestível de porte baixo, prefere clima ameno, cresce em pequenos cachos brancos ou marrons muito usados em refogados e pratos quentes. Precisa de sombra ou luz indireta e de irrigação leve diária.
+O cogumelo shimeji (Pleurotus ostreatus var. shimeji) é um fungo comestível de porte baixo, 
+prefere clima ameno, cresce em pequenos cachos brancos ou marrons muito usados em refogados 
+e pratos quentes. Precisa de sombra ou luz indireta e de irrigação leve diária.
 
+#15
 Ora-pro-nóbis
 
-A ora-pro-nóbis (Pereskia aculeata) é uma planta trepadeira de porte médio, prefere clima quente, cresce em folhas verdes nutritivas muito usadas em refogados e saladas. 
+A ora-pro-nóbis (Pereskia aculeata) é uma planta trepadeira de porte médio, 
+prefere clima quente, cresce em folhas verdes nutritivas muito usadas em refogados e saladas. 
 Precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 vez ao dia.
 
+#16
 Cebolinha de Sombra
 
-A cebolinha de sombra (Allium schoenoprasum) é uma erva de porte baixo, prefere clima ameno e locais com sombra parcial, cresce em folhas verdes finas muito usadas em temperos, saladas e pratos cozido. 
+A cebolinha de sombra (Allium schoenoprasum) é uma erva de porte baixo, 
+prefere clima ameno e locais com sombra parcial, 
+cresce em folhas verdes finas muito usadas em temperos, saladas e pratos cozido. 
 Precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 a 2 vezes ao dia.
 
+#17
 Samambaia ou Véu-de-Noiva
 
-A samambaia (Pteridophyta) é uma planta de porte baixo a médio, prefere clima ameno e cresce em folhas verdes ornamentais muito usadas na decoração. Precisa de sombra ou luz indireta e de irrigação contínua 1 vez ao dia.
+A samambaia (Pteridophyta) é uma planta de porte baixo a médio, 
+prefere clima ameno e cresce em folhas verdes ornamentais muito usadas na decoração. 
+Precisa de sombra ou luz indireta e de irrigação contínua 1 vez ao dia.
 
-O véu-de-noiva (Gibasis geniculata) é uma planta de porte baixo a médio, prefere clima ameno e úmido, cresce em folhas verdes delicadas e ramos pendentes muito usados na decoração. Precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia.
+O véu-de-noiva (Gibasis geniculata) é uma planta de porte baixo a médio, 
+prefere clima ameno e úmido, cresce em folhas verdes delicadas 
+e ramos pendentes muito usados na decoração. 
+Precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia.
 
+#18
 Areca Bambu
 
-A areca-bambu (Dypsis lutescens) é uma palmeira de porte médio a alto, prefere clima quente e cresce em folhas verdes longas muito usadas na decoração. Precisa de 4 a 6 horas de sol indireto por dia e de irrigação leve 1 vez ao dia.
+A areca-bambu (Dypsis lutescens) é uma palmeira de porte médio a alto, 
+prefere clima quente e cresce em folhas verdes longas muito usadas na decoração. 
+Precisa de 4 a 6 horas de sol indireto por dia e de irrigação leve 1 vez ao dia.
 
+#19
 Maranta
 
-Maranta (Maranta leuconeura) é uma planta de porte baixo, prefere clima ameno e úmido, cresce em folhas verdes ornamentais muito usadas na decoração, precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia.
+Maranta (Maranta leuconeura) é uma planta de porte baixo, 
+prefere clima ameno e úmido, cresce em folhas verdes ornamentais muito usadas na decoração, 
+precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia.
 
+#20
 Peperômia
 
-Peperômia (Peperomia sp.) é uma planta de porte baixo, prefere clima ameno, cresce em folhas verdes ou coloridas muito usadas na decoração, precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia.
+Peperômia (Peperomia sp.) é uma planta de porte baixo, prefere clima ameno, 
+cresce em folhas verdes ou coloridas muito usadas na decoração, 
+precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia.
 
+#21
 Cactus
 
-Cactus (Cactaceae) são plantas de porte baixo a médio, preferem clima quente e seco, crescem em caules suculentos muito usados na decoração, precisam de 4 a 6 horas de sol. A rega é esporádica, não exige muito cuidado.
+Cactus (Cactaceae) são plantas de porte baixo a médio, 
+preferem clima quente e seco, crescem em caules suculentos muito usados na decoração, 
+precisam de 4 a 6 horas de sol. A rega é esporádica, não exige muito cuidado.
 
+#22
 Espada-de-São-Jorge
 
-Espada-de-São-Jorge (Sansevieria trifasciata) é uma planta de porte médio, prefere clima quente e ameno, cresce em folhas verdes rígidas muito usadas na decoração, precisa de 4 a 6 horas de sol indireto por dia, deve ser regada apenas a cada 2 a 6 semanas, não exige muito cuidado.
+Espada-de-São-Jorge (Sansevieria trifasciata) é uma planta de porte médio, 
+prefere clima quente e ameno, cresce em folhas verdes rígidas muito usadas na decoração, 
+precisa de 4 a 6 horas de sol indireto por dia, deve ser regada apenas a cada 2 a 6 semanas, 
+não exige muito cuidado.
 
+#23
 Costela-de-Adão
 
-Costela-de-Adão (Monstera deliciosa) é uma planta trepadeira de porte médio a alto, prefere clima quente e úmido, cresce em folhas verdes grandes muito usadas na decoração, precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia para manter o solo sempre úmido.
+Costela-de-Adão (Monstera deliciosa) é uma planta trepadeira de porte médio a alto, 
+prefere clima quente e úmido, cresce em folhas verdes grandes muito usadas na decoração, 
+precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia para manter o solo sempre úmido.
 
+#24
 Jiboia
 
-Jiboia (Epipremnum aureum) é uma planta trepadeira de porte médio, prefere clima ameno, cresce em folhas verdes com manchas muito usadas na decoração, precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia para manter o solo levemente úmido.
+Jiboia (Epipremnum aureum) é uma planta trepadeira de porte médio, 
+prefere clima ameno, cresce em folhas verdes com manchas muito usadas na decoração, 
+precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia para manter o solo levemente úmido.
 
+#25
 Jasmim
 
-Jasmim (Jasminum sp.) é uma planta trepadeira de porte médio, prefere clima quente, cresce em folhas verdes e flores aromáticas muito usadas na decoração, precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia para manter o solo levemente úmido.
+Jasmim (Jasminum sp.) é uma planta trepadeira de porte médio, 
+prefere clima quente, cresce em folhas verdes e flores aromáticas muito usadas na decoração, 
+precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia para manter o solo levemente úmido.
 
+#26
 Hibisco
 
-Hibisco (Hibiscus rosa-sinensis) é um arbusto de porte médio a alto, prefere clima quente, cresce em folhas verdes e flores coloridas muito usadas na decoração, precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia.
+Hibisco (Hibiscus rosa-sinensis) é um arbusto de porte médio a alto, 
+prefere clima quente, cresce em folhas verdes e flores coloridas muito usadas na decoração, 
+precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia.
 
+#27
 Onze-horas
 
-Onze-horas (Portulaca grandiflora) é uma planta de porte baixo, prefere clima quente, cresce em folhas verdes e flores coloridas muito usadas na decoração, precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia para manter o solo levemente úmido.
+Onze-horas (Portulaca grandiflora) é uma planta de porte baixo, prefere clima quente, 
+cresce em folhas verdes e flores coloridas muito usadas na decoração, 
+precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia para manter o solo levemente úmido.
 
+#28
 Gerânio
 
-Gerânio (Pelargonium sp.) é uma planta de porte baixo a médio, prefere clima quente, cresce em folhas verdes e flores coloridas muito usadas na decoração, precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia.
+Gerânio (Pelargonium sp.) é uma planta de porte baixo a médio, 
+prefere clima quente, cresce em folhas verdes e flores coloridas muito usadas na decoração, 
+precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia.
 
+#29
 Hera
 
-Hera (Hedera helix) é uma planta trepadeira de porte médio, prefere clima ameno, cresce em folhas verdes muito usadas na decoração e cobertura de muros, precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia.
+Hera (Hedera helix) é uma planta trepadeira de porte médio, prefere clima ameno, 
+cresce em folhas verdes muito usadas na decoração e cobertura de muros, 
+precisa de sombra ou luz indireta e de irrigação leve 1 vez ao dia.
 
+#30
 Tumbérgia 
 
-Tumbérgia (Thunbergia sp.) é uma planta trepadeira de porte médio, prefere clima quente, cresce em folhas verdes e flores coloridas muito usadas na decoração, precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia..
+Tumbérgia (Thunbergia sp.) é uma planta trepadeira de porte médio, 
+prefere clima quente, cresce em folhas verdes e flores coloridas muito usadas na decoração, 
+precisa de 6 a 8 horas de sol por dia e de irrigação leve 1 vez ao dia..
 
+#31
 Podocarpo
 
-Podocarpo (Podocarpus sp.) é uma árvore de porte médio a alto, prefere clima ameno, cresce em folhas verdes muito usada como cerca viva na decoração, precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 vez ao dia.
+Podocarpo (Podocarpus sp.) é uma árvore de porte médio a alto, 
+prefere clima ameno, cresce em folhas verdes muito usada como cerca viva na decoração, 
+precisa de 4 a 6 horas de sol por dia e de irrigação leve 1 vez ao dia.
 
+#32
 Cica ou Dracena (Cycas revoluta / Dracaena sp.) 
-é uma planta de porte médio, prefere clima quente e ameno, cresce em folhas verdes rígidas muito usada na decoração, precisa de 4 a 6 horas de sol indireto por dia e de irrigação leve 1 vez ao dia.
+é uma planta de porte médio, prefere clima quente e ameno, 
+cresce em folhas verdes rígidas muito usada na decoração, 
+precisa de 4 a 6 horas de sol indireto por dia e de irrigação leve 1 vez ao dia.
