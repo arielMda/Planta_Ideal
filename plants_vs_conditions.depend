@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1763157039 source:/home/ariel/Documentos/Plants vs Conditions/plants_vs_conditions/arvore.c
-
-1763156952 source:/home/ariel/Documentos/Plants vs Conditions/plants_vs_conditions/main.c
-	<stdio.h>
-	<stdlib.h>
-
